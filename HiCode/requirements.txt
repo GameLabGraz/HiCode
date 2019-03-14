@@ -1,0 +1,4 @@
+networkx==1.11
+python_louvain==0.13
+community==1.0.0b1
+typing==3.6.6
